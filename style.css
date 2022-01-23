@@ -107,10 +107,15 @@
 }
 
 .copy-button button {
+  white-space: nowrap;
   padding: 5px 20px;
   background-color: #dc143c;
   color: #fff;
   border: 1px solid transparent;
+}
+
+.codediv {
+  white-space: nowrap;
 }
 
 .buy{

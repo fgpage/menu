@@ -8,5 +8,5 @@ function copyIt(){
 
   document.execCommand("copy");
 
-  copybtn.textContent = "COPIED";
+  copybtn.textContent = "コピー済";
 }
