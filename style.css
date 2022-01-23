@@ -125,3 +125,8 @@
   left:20px;
   background-color: #dc143c;
  }
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
